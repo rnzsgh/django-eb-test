@@ -1,0 +1,6 @@
+*.zip
+*.swp
+__pycache__/
+*.py[cod]
+.Python
+
