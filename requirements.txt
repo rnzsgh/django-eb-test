@@ -9,14 +9,14 @@ coreapi==2.3.3
 coreschema==0.0.4
 coverage==4.5.1
 dj-database-url==0.5.0
-Django==2.1.1
+Django==2.1.11
 django-admin-env-notice==0.1.5
 django-admin-honeypot==1.1.0
 django-cors-headers==2.2.0
 django-filter==1.1.0
 django-rest-auth==0.9.3
 django-storages==1.6.6
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 djangorestframework-camel-case==0.2.0
 djangorestframework-jwt==1.11.0
 docutils==0.14
@@ -26,7 +26,7 @@ gunicorn==19.8.1
 idna==2.8
 inflection==0.3.1
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.10.1
 jmespath==0.9.3
 jsonfield2==3.0.1
 Markdown==2.6.11
@@ -51,5 +51,5 @@ s3transfer==0.1.13
 six==1.11.0
 text-unidecode==1.2
 uritemplate==3.0.0
-urllib3==1.24.1
+urllib3==1.24.2
 whitenoise==3.3.1
