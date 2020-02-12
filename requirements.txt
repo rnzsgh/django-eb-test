@@ -9,7 +9,7 @@ coreapi==2.3.3
 coreschema==0.0.4
 coverage==4.5.1
 dj-database-url==0.5.0
-Django==2.1.11
+django>=2.2.10
 django-admin-env-notice==0.1.5
 django-admin-honeypot==1.1.0
 django-cors-headers==2.2.0
