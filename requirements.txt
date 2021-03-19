@@ -16,7 +16,7 @@ django-cors-headers==2.2.0
 django-filter==1.1.0
 django-rest-auth==0.9.3
 django-storages==1.6.6
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 djangorestframework-camel-case==0.2.0
 djangorestframework-jwt==1.11.0
 docutils==0.14
